@@ -1,2 +1,2 @@
-# panda-roll-positioning-index
+# pandaroll-positioning-index
 Pan-European Professional Services Positioning Index
